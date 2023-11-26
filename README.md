@@ -10,7 +10,7 @@ This document outlines the purpose and validation criteria for the tests perform
 
 
 ## Installation
-- Ensure you shave Python installed
+- Ensure you have Python installed
 - pip install -r requirements.txt
 
 ## Usage
